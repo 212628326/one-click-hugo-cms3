@@ -33,7 +33,7 @@ products:
   - image: /img/about-direct-sourcing.jpg
     text: 'this is a test product to see how well this CMS works '
 values:
-  heading: Our values
+  heading: Our Design System
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
