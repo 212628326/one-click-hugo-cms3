@@ -30,7 +30,8 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
-  - text: 'this is a test product to see how well this CMS works '
+  - image: /img/about-direct-sourcing.jpg
+    text: 'this is a test product to see how well this CMS works '
 values:
   heading: Our values
   text: >-
